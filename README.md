@@ -1,1 +1,1 @@
-A one-stop repository for resources related to LLD.
+A one-stop Repository for resources related to LLD.
